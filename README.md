@@ -35,7 +35,7 @@ I'm a full-stack developer who builds **AI-powered web applications** and **deve
 ### ⚡ Tech I work with
 
 <p align="center">
-  <img src="./assets/skills.svg" alt="Technologies: React, TypeScript, Tailwind, Claude API, Kotlin, Spring Boot and more" width="100%" />
+  <img src="skills.svg" alt="Technologies: React, TypeScript, Tailwind, Claude API, Kotlin, Spring Boot and more" width="100%" />
 </p>
 
 <details>
