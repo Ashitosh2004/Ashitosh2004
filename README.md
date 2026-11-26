@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Ashitosh Krishna Ingale - Full-Stack Developer | AI Enthusiast" width="100%" />
+  <img src="header.svg" alt="Ashitosh Krishna Ingale - Full-Stack Developer | AI Enthusiast" width="100%" />
 </p>
 
 <p align="center">
